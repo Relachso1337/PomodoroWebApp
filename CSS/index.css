@@ -3,5 +3,12 @@ body{
     background-color: rgba(226, 84, 84, 0.74);
 }
 #zeit{
+    align-items: center;    
+}
+button{
+    margin-top: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
     align-items: center;
 }
